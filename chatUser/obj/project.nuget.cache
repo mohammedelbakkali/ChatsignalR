@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpxYbqI0x50nEB51IaDKA40re8PMteppljZ1Ri3SQJOIKhn9RDJs13dA/D6c15dfTZoQ4b+4ZpXuNImCF4Oo2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohammed\\Desktop\\chatUser\\chatUser\\chatUser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammed\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.3\\microsoft.aspnet.signalr.client.2.4.3.nupkg.sha512",
+    "C:\\Users\\mohammed\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
